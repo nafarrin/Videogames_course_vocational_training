@@ -1,0 +1,4 @@
+Proyecto con todos los ejercicios del videocurso "C# para Unity - Nivel 1" del canal:
+https://www.youtube.com/user/juande
+
+Estos ejercicios están pensados para hacerse junto con las explicaciones de los vídeos con los ejercicios y sus soluciones.

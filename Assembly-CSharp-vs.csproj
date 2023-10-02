@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{CBD0AEC5-BA17-4F13-18DA-DEE507447270}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_5_2;UNITY_4_5;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\Ejercicios\E03.cs" />
+     <Compile Include="Assets\Scripts\Ejercicios\E04.cs" />
+     <Compile Include="Assets\Scripts\Ejercicios\E05.cs" />
+     <Compile Include="Assets\Scripts\Ejercicios\E06.cs" />
+     <Compile Include="Assets\Scripts\Ejercicios\E07.cs" />
+     <Compile Include="Assets\Scripts\Ejercicios\E08.cs" />
+     <Compile Include="Assets\Scripts\Ejercicios\E09.cs" />
+     <Compile Include="Assets\Scripts\Ejercicios\E10.cs" />
+     <Compile Include="Assets\Scripts\Ejercicios\E11.cs" />
+     <Compile Include="Assets\Scripts\Ejercicios\E12.cs" />
+     <Compile Include="Assets\Scripts\Ejercicios\E13.cs" />
+     <Compile Include="Assets\Scripts\Ejercicios\E14.cs" />
+     <Compile Include="Assets\Scripts\Ejercicios\E15.cs" />
+     <Compile Include="Assets\Scripts\Ejercicios\E16.cs" />
+     <Compile Include="Assets\Scripts\Ejercicios\E17.cs" />
+     <Compile Include="Assets\Scripts\Ejercicios\E18.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E01Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E02Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E03Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E04Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E05Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E06Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E07Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E08Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E09Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E10Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E11Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E12Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E13Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E14Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E15Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E16Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E17Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Resueltos\E18Resuelto.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T01.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T02.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T03.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T04.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T05.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T06.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T07.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T08.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T09.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T10.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T11.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T12.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T13.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T14.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T15.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T16.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T17.cs" />
+     <Compile Include="Assets\Scripts\Teoria\T18.cs" />
+     <None Include="Assets\Leeme.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

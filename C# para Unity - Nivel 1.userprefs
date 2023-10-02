@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Scripts" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\juande\Documents\Unity Projects for Youtube\C# para Unity - Nivel 1\Assets\Scripts\Teoria\T07.cs" line="94" />
+      <Breakpoint file="C:\Users\juande\Documents\Unity Projects for Youtube\C# para Unity - Nivel 1\Assets\Scripts\Teoria\TMP.cs" line="9" />
+      <Breakpoint file="C:\Users\juande\Documents\Unity Projects for Youtube\C# para Unity - Nivel 1\Assets\Scripts\Teoria\Error.cs" line="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\Scripts\Teoria\T05.cs" line="29" offsetX="571" offsetY="654" expression="puntos" liveUpdate="False" />
+    <Watch file="Assets\Scripts\Teoria\T05.cs" line="30" offsetX="529" offsetY="684" expression="notaExamen" liveUpdate="False" />
+    <Watch file="Assets\Scripts\Teoria\T05.cs" line="31" offsetX="480" offsetY="717" expression="nombreJugador" liveUpdate="False" />
+    <Watch file="Assets\Scripts\Teoria\T05.cs" line="32" offsetX="522" offsetY="750" expression="personajeVivo" liveUpdate="False" />
+    <Watch file="Assets\Scripts\Ejercicios\E18.cs" line="55" offsetX="483" offsetY="866" expression="array" liveUpdate="False" />
+    <Watch file="Assets\Scripts\Ejercicios\E18.cs" line="56" offsetX="331" offsetY="860" expression="masGrande" liveUpdate="False" />
+    <Watch file="Assets\Scripts\Ejercicios\E18.cs" line="57" offsetX="347" offsetY="949" expression="elemento" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
