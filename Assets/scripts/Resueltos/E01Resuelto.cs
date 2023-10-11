@@ -9,7 +9,7 @@ public class E01Resuelto : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		Debug.Log("Juande");
+		Debug.Log("Juan Navaro");
 	}
 
 }
