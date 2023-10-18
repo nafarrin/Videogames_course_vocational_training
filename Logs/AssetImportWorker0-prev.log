@@ -342,3 +342,35 @@ AssetImportParameters requested are different than current active one (requested
   custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 5842.978346 seconds.
+  path: Assets/scripts/Ejercicios
+  artifactKey: Guid(a7905ba9cd4270c4085f8119dfb77d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/Ejercicios using Guid(a7905ba9cd4270c4085f8119dfb77d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7296db207406a7b366a228c2b074c09') in 0.515335 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 37.139743 seconds.
+  path: Assets/scripts/Ejercicios/E04.cs
+  artifactKey: Guid(149857fc062e77d4cb6bf8dbf9a584c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/Ejercicios/E04.cs using Guid(149857fc062e77d4cb6bf8dbf9a584c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd6f5764d9341ddd0d8efe74139a80ef') in 0.008410 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 38.397484 seconds.
+  path: Assets/scripts/Ejercicios/E05.cs
+  artifactKey: Guid(d0a1c99c9a94b4546a4ba7b17398dad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/Ejercicios/E05.cs using Guid(d0a1c99c9a94b4546a4ba7b17398dad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a27a55a984f8bcddecc17e6ec4495263') in 0.001535 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 227.212625 seconds.
+  path: Assets/scripts/Resueltos/E05Resuelto.cs
+  artifactKey: Guid(3e35f3d5371826449b7a62ad516f2728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/Resueltos/E05Resuelto.cs using Guid(3e35f3d5371826449b7a62ad516f2728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c217620a8ad7bb54a341f8116236bab') in 0.001225 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
